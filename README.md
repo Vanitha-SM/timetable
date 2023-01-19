@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+~~~ python
 
 <!DOCTYPE html>
 <html>
@@ -87,6 +88,7 @@ Execute the program
     </table>
 </body>
 </html>
+~~~
 
 # OUPUT
 
